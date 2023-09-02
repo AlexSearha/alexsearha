@@ -1,14 +1,15 @@
-# Hello World, I'm Alex - aka [alexsearha] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hello World, I'm Alex />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a front End developper 
+## I'm a Front End developper 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Vue, etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - Fun fact: 
      - 🎺 I compose orchestral movie scores during my free time
+     - 🎸 I play guitar in <a target='_blank' href='https://www.seasonsnovel.com'>Seasons</a> and <a target='_blank' href='https://daturha.bandcamp.com/album/variances-part-i'>Daturha</a>
      - 🔊 I'm a sound mixing engineer 
      - 👨‍🍳 I love to cook
 
@@ -22,17 +23,6 @@
 <span><img height='120' src='https://cdns-images.dzcdn.net/images/artist/8056a1098ec29b168fcd731ec4629e7a/500x500.jpg'></span>
 <span><img height='120' src='https://www.albumrock.net/dyn_img/actualites/4775.jpg'></span>
 
-
----
-
-### Contact me 📝
-<a href="https://fr.linkedin.com/in/alexis-marouf-75392157">
-<img align="left" alt="alexsearha.linkedin" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
-</a>
-
-
-<br />
-<br />
 
 ---
 
@@ -100,7 +90,6 @@
 
 ---
 
-<br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
@@ -117,7 +106,16 @@
 
 ---
 
-### ⭐️ From [alexsearha](https://github.com/AlexSearha) ### 
+### Contact me 📝
+<a href="https://fr.linkedin.com/in/alexis-marouf-75392157">
+<img align="left" alt="alexsearha.linkedin" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
+</a>
+
+
+<br />
+<br />
+
+
 
 ---
 
@@ -125,7 +123,7 @@
 [Band]: https://www.seasonsnovel.com/
 
 
-----
+
 Credit: [alexsearha](https://github.com/AlexSearha)
 
 Last Edited on: 02/09/2023
