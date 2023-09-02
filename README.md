@@ -2,14 +2,14 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Front End developper 
+## I'm a front End developper 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Vue, etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - Fun fact: 
      - 🎺 I compose orchestral movie scores during my free time
-     - 🎸 I play guitar in <a target='_blank' href='https://www.seasonsnovel.com'>Seasons</a> and <a target='_blank' href='https://daturha.bandcamp.com/album/variances-part-i'>Daturha</a>
+     - 🎸 I play guitar in <a href='https://www.seasonsnovel.com' target='_blank'>Seasons</a> and <a href='https://daturha.bandcamp.com/album/variances-part-i' target='_blank'>Daturha</a>
      - 🔊 I'm a sound mixing engineer 
      - 👨‍🍳 I love to cook
 
