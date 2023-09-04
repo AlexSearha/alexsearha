@@ -25,7 +25,7 @@
 
 
 ---
-## Skills 
+## Skills
 
 ### OS 👨‍💻
 
@@ -34,6 +34,7 @@
 
 
 ### Languages 💬
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Typscript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -42,41 +43,56 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 
 
-### FrontEnd Frameworks and more 🖌️
+### Frameworks and more 🖌️
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Materialui](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flate-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-
-### BackEnd Frameworks and more ⚒️
-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue)
+![Materialui](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flate-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)
 
 ### Database 📂
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flate-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+
+### Tests 🧪
+
+![Jest](https://img.shields.io/badge/Jest-323330?style=&logo=Jest&logoColor=white)
+![MongoDb](https://img.shields.io/badge/mocha.js-323330?style=&logo=mocha&logoColor=Brown)
 
 ### Package Manager ⬇️
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
-### Cloud ☁️
+### Cloud & Network ☁️
 
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=Nextcloud&logoColor=white)
-
-### Network 🛜
-
 ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=flate-square&logo=Cloudflare&logoColor=white)
+
+### Design and medias 🎨
+
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![AfterEffect](https://aleen42.github.io/badges/src/after_effects.svg)
+![PremierPro](https://aleen42.github.io/badges/src/premiere.svg)
+
+### Communication 🔗
+
+![Slack]( 	https://img.shields.io/badge/Slack-4A154B?style=flate-square&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flate-square&logo=discord&logoColor=white)
+![MicrosoftTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?&logo=microsoft-teams&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?&logo=zoom&logoColor=white)
+
+
 
 ### Other ➕
 
@@ -84,6 +100,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)
+![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?&logo=sap&logoColor=white)
+![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?&logo=google%20analytics&logoColor=white)
 
 
 
@@ -111,6 +130,10 @@
 <a href="https://fr.linkedin.com/in/alexis-marouf-75392157">
 <img align="left" alt="alexsearha.linkedin" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" />
 </a>
+<a href="mailto:alexis.marouf@hotmail.fr">
+<img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?&logo=microsoft-outlook&logoColor=white'>
+</a>
+
 
 
 <br />
@@ -127,4 +150,4 @@
 
 Credit: [alexsearha](https://github.com/AlexSearha)
 
-Last Edited on: 02/09/2023
+Last Edited on: 04/09/2023
