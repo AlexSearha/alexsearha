@@ -4,7 +4,7 @@
 
 ## I'm a Java & React developper 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Vue, etc.
+- 👨‍💻 I’m currently working on web development technologies like Java TypeScript, React, etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - Fun fact: 
